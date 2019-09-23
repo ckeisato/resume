@@ -1,21 +1,21 @@
 ## Kei Sato
 ##### Seattle, WA  - Phone: (917) 981-9994 
-###### ckeisato@gmail.com linkedin.com/in/claire-kei-sato    www.clairekeisato.com/ 
+###### ckeisato@gmail.com linkedin.com/in/claire-kei-sato www.clairekeisato.com/ 
 
 ---
 
-##### Skills:
+#### Skills:
 **Programing Languages**
-Proficient with JavaScript and Python
-Experience with Java, C/C++, R, and Ruby
+- Proficient with JavaScript and Python
+- Experience with Java, C/C++, R, and Ruby
 
 **Frameworks and Services**
-Proficiency with AWS infrastructure
-Proficiency with React and Redux
-Proficiency with telemetry and monitoring services, such as DataDog, Splunk, and New Relic
+- Proficiency with AWS infrastructure
+- Proficiency with React and Redux
+- Proficiency with telemetry and monitoring services, such as DataDog, Splunk, and New Relic
 
 
-##### Work Experience:
+#### Work Experience:
 **Nordstrom, Seattle WA - Engineer 2 (08/17 – Current)**                            
 - Currently doing a three month rotation on the Computer Vision Platform team (9/19 - present), which entails creating a machine learning model for pattern recognition.
 Supported the Digital Assembly Services group (9/18 - present), that maintains the data management system for editorial content rendered on Nordstrom.com and our mobile apps.  The system relies on AWS for its backend infrastructure and React/Redux for a user interface to preview and edit the content.
