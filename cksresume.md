@@ -4,7 +4,7 @@
 
 ---
 
-#### Skills:
+### Skills:
 **Programing Languages**
 - Proficient with JavaScript and Python
 - Experience with Java, C/C++, R, and Ruby
@@ -15,7 +15,7 @@
 - Proficiency with telemetry and monitoring services, such as DataDog, Splunk, and New Relic
 
 
-#### Work Experience:
+### Work Experience:
 **Nordstrom, Seattle WA - Engineer 2 (08/17 – Current)**                            
 - Currently doing a three month rotation on the Computer Vision Platform team (9/19 - present), which entails creating a machine learning model for pattern recognition.
 Supported the Digital Assembly Services group (9/18 - present), that maintains the data management system for editorial content rendered on Nordstrom.com and our mobile apps.  The system relies on AWS for its backend infrastructure and React/Redux for a user interface to preview and edit the content.
@@ -38,7 +38,7 @@ Supported the Digital Assembly Services group (9/18 - present), that maintains t
 **Momenta Pharmaceuticals, Boston MA - Research Intern (05/13 – 08/13)**
 - Research, evaluate, and recommend data visualization software.  Focused on gene expression data (sets of 40,000 items). 
 
-##### Education:
+### Education:
 **Tufts University (09/11 - 05/14)**
 College of Arts and Science, B.S. Computer Science
 
