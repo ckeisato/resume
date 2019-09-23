@@ -40,7 +40,9 @@ Supported the Digital Assembly Services group (9/18 - present), that maintains t
 
 ### Education:
 **Tufts University (09/11 - 05/14)**
+
 College of Arts and Science, B.S. Computer Science
 
 **University of Washington (10/18 - 06/19)**
+
 Professional and Continuing Education, Certificate in Machine Learning
