@@ -1,6 +1,6 @@
 ## Kei Sato
 ##### Seattle, WA  - Phone: (917) 981-9994 
-###### ckeisato@gmail.com linkedin.com/in/claire-kei-sato www.clairekeisato.com/ 
+###### ckeisato@gmail.com  https://www.linkedin.com/in/clairekeisato/  www.clairekeisato.com/ 
 
 ---
 
